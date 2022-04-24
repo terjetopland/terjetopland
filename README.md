@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @terjetopland
 - 👀 I’m interested in programming, mountain biking and skiing
-- 🌱 I’m currently learning C, C++, C#, web, javascript, databases
+- 🌱 I’m currently learning C, C++, C#, web, .NET, typescript, databases
 - 💞️ I’m looking to collaborate on cool projects
 - 📫 How to reach me terjetopland@yahoo.no
 
