@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @terjetopland
 - 👀 I’m interested in programming, mountain biking and skiing
-- 🌱 I’m currently learning C, C++, C#, web, .NET, typescript, databases
+- 🌱 I’m currently learning web, Application dev, R, .NET, typescript, databases
+- My current programming skills: C# EF .NET, C++
 - 💞️ I’m looking to collaborate on cool projects
-- 📫 How to reach me terjetopland@yahoo.no
+- 📫 How to reach me: terjetopland@yahoo.no
 
 <!---
 terjetopland/terjetopland is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
